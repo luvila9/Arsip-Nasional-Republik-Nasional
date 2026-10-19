@@ -1,0 +1,110 @@
+"LEMBAR KERJA FORMULIR AUDIT PENGELOLAAN ARSIP ELEKTRONIK
+ PEMERINTAH KABUPATEN/KOTA ",,,,,,,,,,,,,,
+PENGELOLAAN ARSIP ELEKTRONIK,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+NO,PERNYATAAN,,KETERANGAN,PILIHAN,,,,,DEFINISI OPERASIONAL,,DASAR HUKUM,BUKTI DUKUNG/PORTOFOLIO,,
+,,,,,,,,,,,,,,
+16.,Aplikasi Bidang Kearsipan Dinamis (ABKD) pada pemerintah daerah kabupaten/kota melakukan proses bisnis kearsipan,,PENERAPAN ABKD - dapat digunakan untuk aplikasi kearsipan dinamis selain SRIKANDI,,,PENGELOLAAN ARSIP ELEKTRONIK,,,"Proses Bisnis Kearsipan:
+ 1. Penciptaan;
+ 2. Penggunaan; dan
+ 3. Pemeliharaan (pemberkasan).
+ 
+ Untuk melihat pemberkasan: menggunakan fitur naskah masuk dan naskah keluar pada akun pencatat surat utama, kemudian pada kolom pencarian, cari berdasarkan tahun dan status berkas.
+ 
+ Jika menggunakan SRIKANDI dan telah sampai proses bisnis pemberkasan, walaupun ada satu saja sudah melakukan pemberkasan, dapat dinilai di huruf e.",,"Keputusan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi No. 679 Tahun 2020 tentang Aplikasi Umum Bidang Kearsipan Dinamis
+ 
+ Peraturan ANRI Nomor 4 Tahun 2021 tentang Pedoman Penerapan Sistem Informasi Kearsipan Dinamis Terintegrasi.","1. Poin b/c/d: Screenshoot setiap proses bisnis; dan
+ 2. Poin e: Surat reviu proses bisnis dan data kearsipan dari ANRI (untuk aplikasi selain SRIKANDI)",,
+a.,Aplikasi Bidang Kearsipan Dinamis (ABKD) pada pemerintah daerah kabupaten/kota tidak melaksanakan seluruh proses bisnis kearsipan.,0,,,,LEVEL,SKOR,,,,,,,
+b.,Aplikasi Bidang Kearsipan Dinamis (ABKD) pada pemerintah daerah kabupaten/kota melaksanakan proses bisnis penciptaan arsip hanya pada penerimaan atau pembuatan naskah dinas.,1,,,,-,-,,,,,,,
+c.,Aplikasi Bidang Kearsipan Dinamis (ABKD) pada pemerintah daerah kabupaten/kota melaksanakan proses bisnis penciptaan arsip baik pada penerimaan maupun pembuatan naskah dinas.,2,,,,,,,,,,,,
+d.,Aplikasi Bidang Kearsipan Dinamis (ABKD) pada pemerintah daerah kabupaten/kota melaksanakan proses bisnis penciptaan arsip dan penggunaan arsip.,3,,,,,,,,,,,,
+e.,"Aplikasi Bidang Kearsipan Dinamis (ABKD) pada pemerintah daerah kabupaten/kota melaksanakan proses bisnis penciptaan arsip, penggunaan arsip, dan pemeliharaan arsip (pemberkasan).",4,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+NO,PERNYATAAN,,KETERANGAN,PILIHAN,,,,,DEFINISI OPERASIONAL,,DASAR HUKUM,BUKTI DUKUNG/PORTOFOLIO,,
+,,,,,,,,,,,,,,
+17.,Perangkat daerah melakukan pembuatan dan penerimaan naskah dinas elektronik pada Aplikasi Bidang Kearsipan Dinamis (ABKD).,,PENERAPAN ABKD - dapat digunakan untuk aplikasi kearsipan dinamis selain SRIKANDI,,,PENGELOLAAN ARSIP ELEKTRONIK,,,"Aplikasi sejenis AUBKD (SRIKANDI)/ABKD, harus memenuhi syarat sebagai berikut:
+a. Telah mengoperasikan aplikasi sejenis sebelum aplikasi umum ditetapkan;
+b. Melakukan kajian biaya dan manfaat terhadap penggunaan dan  pengembangan aplikasi sejenis;
+c. Melakukan pengembangan aplikasi sejenis yang disesuaikan dengan proses bisnis dan fungsi pada aplikasi umum; dan
+d. Mendapatkan pertimbangan dari menteri yan menyelenggarakan urusan pemerintahan di bidang komunikasi dan informatika.
+
+Implementasi ABKD menggunakan satu aplikasi pengelolaan arsip dinamis.
+
+Pembuatan naskah dinas dimulai dari penyusunan konsep naskah dinas secara elektonik, verifikasi naskah dinas, penomoran naskah dinas sampai dengan penandatanganan naskah dinas secara elektronik dan tercatat pada daftar naskah dinas keluar secara elektronik melalui aplikasi bidang kearsipan dinamis.
+
+Penerimaan naskah dinas melalui kegiatan registrasi, distribusi, dilakukan pengendalian naskah dinas masuk, dan dicatat pada daftar naskah dinas masuk secara elektronik melalui aplikasi bidang kearsipan dinamis.
+
+KALKULATOR ",,"Keputusan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi No. 679 Tahun 2020 tentang Aplikasi Umum Bidang Kearsipan Dinamis
+ 
+ Peraturan ANRI Nomor 4 Tahun 2021 tentang Pedoman Penerapan Sistem Informasi Kearsipan Dinamis Terintegrasi.","1. Poin b: file previu draft naskah dinas yang siap di TTE;
+ 2. Poin c: file naskah dinas yang telah di TTE;
+ 3. Poin d: Screenshoot riwayat pembuatan naskah dinas; dan
+ 4. Poin e: Screenshoot daftar naskah keluar.",,
+a.,Seluruh perangkat daerah tidak melakukan pembuatan dan penerimaan naskah dinas elektronik pada Aplikasi Bidang Kearsipan Dinamis (ABKD).,0,,,,LEVEL,SKOR,,,,,,,
+b.,Lebih dari 0% sampai dengan 30% perangkat daerah telah melakukan pembuatan dan penerimaan naskah dinas pada Aplikasi Bidang Kearsipan Dinamis (ABKD).,1,,,,-,-,,,,,,,
+c.,Lebih dari 30% sampai dengan 50% perangkat daerah telah melakukan pembuatan dan penerimaan naskah dinas pada Aplikasi Bidang Kearsipan Dinamis (ABKD).,2,,,,,,,,,,,,
+d.,Lebih dari 50% sampai dengan 80% perangkat daerah telah melakukan pembuatan dan penerimaan naskah dinas pada Aplikasi Bidang Kearsipan Dinamis (ABKD).,3,,,,,,,,,,,,
+e.,Lebih dari 80% sampai dengan 100% perangkat daerah telah melakukan pembuatan dan penerimaan naskah dinas pada Aplikasi Bidang Kearsipan Dinamis (ABKD).,4,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+NO,PERNYATAAN,,KETERANGAN,PILIHAN,,,,,DEFINISI OPERASIONAL,,DASAR HUKUM,BUKTI DUKUNG/PORTOFOLIO,,
+,,,,,,,,,,,,,,
+18.,Pemerintah daerah kabupaten/kota melakukan penandatanganan menggunakan Tanda Tangan Elektronik (TTE) yang memuat Sertifikat Elektronik. ,,PENERAPAN ABKD - dapat digunakan untuk aplikasi kearsipan dinamis selain SRIKANDI,,,PENGELOLAAN ARSIP ELEKTRONIK,,,"Penandatanganan elektronik berbagai bentuk adalah tanda tangan yang menggunakan alat bantu stylus pen ataupun layar sentuh menggunakan jari.
+ 
+ Tanda Tangan Elektronik (TTE) yang dimaksud pada Poin d adalah TTE yang diterbitkan oleh penerbit sertifikat elektronik selain BSSN. 
+ 
+ 1. Kondisi b: hasil scan tanda tangan basah dan dimasukkan ke sistem, bukan QR;
+ 2. Kondisi c: menggunakan alat layar sentuh seperti zoho form atau tanda tangan menggunakan alat seperti stylus pen yang diaplikasikan melalui tablet;
+ 3. Kondisi d: yang diterbitkan selain BSRe/BSSN; dan
+ 4. Kondisi e: ada keterangan dokumen ini telah ditanda tangani secara elektronik dan bersertifikat BSre pada bagian bawah naskah dinas.",,"Keputusan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi No. 679 Tahun 2020 tentang Aplikasi Umum Bidang Kearsipan Dinamis
+ 
+ Peraturan ANRI Nomor 4 Tahun 2021 tentang Pedoman Penerapan Sistem Informasi Kearsipan Dinamis Terintegrasi.","1. Poin a/b/c: file naskah dinas yang telah di tandatangani;
+ 2. Poin d: Sertifikat TTE;
+ 3. Poin e: Sertifikat Elektronik yang diterbitkan oleh Lembaga Sandi Negara (pembuktian: https://tte.kominfo.go.id/verifyPDF).",,
+a.,Pemerintah daerah kabupaten/kota tidak melakukan penandatanganan elektronik.,0,,,,LEVEL,SKOR,,,,,,,
+b.,Pemerintah daerah kabupaten/kota melakukan penandatanganan elektronik menggunakan hasil scan tanda tangan basah.,1,,,,-,-,,,,,,,
+c.,"Pemerintah daerah kabupaten/kota melakukan penandatanganan elektronik (berbagai bentuk), tetapi belum tersertifikasi.",2,,,,,,,,,,,,
+d.,Pemerintah daerah kabupaten/kota melakukan penandatanganan elektronik menggunakan sertifikat elektronik yang diterbitkan lembaga pemerintah selain BSSN.,3,,,,,,,,,,,,
+e.,Pemerintah daerah kabupaten/kota melakukan penandatanganan elektronik menggunakan sertifikat elektronik yang diterbitkan BSSN.,4,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+NO,PERNYATAAN,,KETERANGAN,PILIHAN,,,,,DEFINISI OPERASIONAL,,DASAR HUKUM,BUKTI DUKUNG/PORTOFOLIO,,
+,,,,,,,,,,,,,,
+19.,Perangkat daerah melakukan pemberkasan arsip pada aplikasi bidang kearsipan dinamis.,,PENERAPAN ABKD - dapat digunakan untuk aplikasi kearsipan dinamis selain SRIKANDI,,,PENGELOLAAN ARSIP ELEKTRONIK,,,"
+Jumlah perangkat daerah yang melakukan pemberkasan di aplikasi SRIKANDI dibagi Jumlah Perangkat Daerah di lingkungan pemerintah daerah.
+
+
+KALKULATOR ",,"Keputusan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi No. 679 Tahun 2020 tentang Aplikasi Umum Bidang Kearsipan Dinamis
+ 
+ Peraturan ANRI Nomor 4 Tahun 2021 tentang Pedoman Penerapan Sistem Informasi Kearsipan Dinamis Terintegrasi.","1. Poin b: Screenshoot folder pemberkasan
+ 2. Poin c/d/e: Screenshoot/daftar naskah; dan masuk dan keluar yang sudah diberaskan dan yang belum diberkaskan.",,
+a.,Perangkat daerah tidak melakukan pemberkasan arsip pada aplikasi bidang kearsipan dinamis.,0,,,,LEVEL,SKOR,,,,,,,
+b.,Lebih dari 0% sampai dengan 30% perangkat daerah melakukan pemberkasan arsip pada aplikasi bidang kearsipan dinamis.,1,,,,-,-,,,,,,,
+c.,Lebih dari 30% sampai dengan 50% perangkat daerah melakukan pemberkasan arsip pada aplikasi bidang kearsipan dinamis.,2,,,,,,,,,,,,
+d.,Lebih dari 50% sampai dengan 80% Perangkat daerah melakukan pemberkasan arsip pada aplikasi bidang kearsipan dinamis.,3,,,,,,,,,,,,
+e.,Lebih dari 80% sampai dengan 100% perangkat daerah melakukan pemberkasan arsip pada aplikasi bidang kearsipan dinamis.,4,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+NO,PERNYATAAN,PILIHAN,KETERANGAN,PILIHAN,,PENGELOLAAN ARSIP ELEKTRONIK,,,NO,KRITERIA,PENILAIAN,CATATAN OBJEK PENGAWAS,DEFINISI OPERASIONAL,KETERANGAN/DASAR HUKUM
+,,,,,,LEVEL,SKOR,,,,,,,
+20.,Pemerintah daerah kabupaten/kota telah melaksanakan evaluasi SPBE yang dilakukan melalui kegiatan audit TIK.,,PENERAPAN ABKD - dapat digunakan untuk aplikasi kearsipan dinamis selain SRIKANDI,,,-,-,,20.,Pelaksanaan evaluasi SPBE dilakukan melalui kegiatan Audit Teknologi Informasi dan Komunikasi (TIK) yang terdiri dari:,,,"AUBKD (SRIKANDI ) telah dilaksanakan evaluasi SPBE melalui seluruh Audit TIK.
+
+1. Audit SPBE BRIN: https://audit-tools-spbe.brin.go.id/webaudit/ 
+2. Audit SPBE BSSN: https://bssn.go.id/audit-keamanan-spbe/ 
+
+Bukti dukung dapat berupa:
+1. Surat permohonan Audit TIK atas ABKD ke BRIN dan BSSN; atau
+2. Laporan hasil Audit TIK atas ABKD.",Peraturan Presiden RI Nomor 95 Tahun 2018 tentang Sistem Pemerintahan Berbasis Elektronik
+a.,Aplikasi bidang kearsipan dinamis pada pemerintah daerah kabupaten/kota belum dilaksanakan kegiatan audit TIK.,0,,,,"APAE, SUMBER DAYA ABKD",,,20.1,Audit Infrastruktur SPBE oleh BRIN,-,,,
+b.,Aplikasi bidang kearsipan dinamis pada pemerintah daerah kabupaten/kota  dalam proses kegiatan audit TIK.,1,,,,,,,20.2,Audit Aplikasi SPBE oleh BRIN,-,,,
+c.,Aplikasi bidang kearsipan dinamis pada pemerintah daerah kabupaten/kota  telah dilaksanakan 1 dari 3 audit TIK.,2,LIHAT LEMBAR KRITERIA,,,,,,20.3,Audit Keamanan SPBE oleh BSSN,-,,,
+d.,Aplikasi bidang kearsipan dinamis pada pemerintah daerah kabupaten/kota  telah dilaksanakan 2 dari 3 audit TIK.,3,LIHAT LEMBAR KRITERIA,,,,,,TOTAL PEMENUHAN KRITERIA		,,0,,,
+e.,Aplikasi bidang kearsipan dinamis pada pemerintah daerah kabupaten/kota telah dilaksanakan seluruh audit TIK.,4,LIHAT LEMBAR KRITERIA,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,TOTAL NILAI PAE,0,,,,,,,
